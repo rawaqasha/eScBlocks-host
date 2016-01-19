@@ -1,0 +1,3 @@
+[submodule "WF-blocks"]
+	path = WF-blocks
+	url = https://github.com/rawaqasha/WF-blocks.git
